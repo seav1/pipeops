@@ -1,3 +1,3 @@
-FROM jfu888/norx:latest
-
+FROM daxia2023/choreo:v3
+USER 10016
 ENV PSWD="8ge8-88888888"
