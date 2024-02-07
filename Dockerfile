@@ -1,3 +1,1 @@
-FROM daxia2023/choreo:v3
-USER 10016
-ENV PSWD="8ge8-88888888"
+FROM jfu888/jsxa
