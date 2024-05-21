@@ -1,1 +1,1 @@
-FROM jfu888/jsx
+FROM jfu888/dockerjs
